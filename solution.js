@@ -15,7 +15,7 @@ const accountTypeChecker = (accountBalanceHistory) => {
 
   // console.log(numbers)
 
-  // Finally, check if all numbers (differences in balance) in the array are the same and returns true or false
+  // Finally, check if all numbers (differences in balance) in the array are the same and return true or false
 
   const result = numbers.every(value => value === numbers[0])
 
