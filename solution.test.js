@@ -41,7 +41,7 @@ describe('accountTypeChecker', () => {
         balance: { amount: 300 }
       }
     }])).toEqual('A')
-    // test with fixed negative values
+    // test with same amount of change, negative values
     expect(fns.accountTypeChecker([{
       monthNumber: 0, // current month
       account: {
