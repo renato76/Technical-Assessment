@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^25.5.4"
+  },
+  "name": "coding-challenge",
+  "description": "Write a function (JavaScript) such that given a accountBalanceHistory array as an argument, it will categorise the array based on the way that the balance value is changing month by month",
+  "version": "1.0.0",
+  "main": "solution.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renato76/Technical-Assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renato76/Technical-Assessment/issues"
+  },
+  "homepage": "https://github.com/renato76/Technical-Assessment#readme"
+}
