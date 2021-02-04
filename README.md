@@ -4,7 +4,7 @@ Write a function (JavaScript) such that given a accountBalanceHistory array as a
 # My Approach
 
 * My first step was to find just the balance amounts within the nested objects. 
-I used a map method and a loop to achieve this.
+I used a map method to achieve this.
 
 * Next step, I calculated the difference between adjacent balances and stored those in a seperate array.
 
